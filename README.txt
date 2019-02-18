@@ -3,3 +3,4 @@ Collect words in spanish from a web site and make a huge dictionary, all written
   .- The lista file contains the targered web pages
   .- To use it, install bs4 and requests using pip3
   .- Space_remover erase the extra spaces between words, is loaded with the final dictionary.csv
+  .- When the dictionary.csv is completed, must be sort in bash using this command: #sort -u dictionary.csv -o final_file_name.csv
